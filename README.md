@@ -6,78 +6,71 @@ This repository containts a collection of Python programs completed as part of C
 
 ## Program List
 
-### 1. Python Basics and Iterations
+### Program 1: Evaluating Values, Expressions, and Statements
 
-a. **Reverse Integer and Sum**
-   - Program: [reverse_integer.py](reverse_integer.py)
-   - Prompt the user to enter an integer, reverse it, and print the sum of the reversed integer.
+File: [`program1.py`](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program1.py)
 
-b. **Factor Check**
-   - Program: [factor_check.py](factor_check.py)
-   - Check whether a number is a factor of 255.
+Description:
+a. This program prompts the user to input an integer, reverses it, and calculates the sum of the reversed integer.
+b. It checks if a given number is a factor of 255.
+c. Similar to part b, this section checks if a number is a factor of 255.
+d. Calculates the sum of two series: i. 1 + 1/3 + 1/5 + 1/7 + ... up to 'N' terms; ii. 1 + x/1! + x^3/2! + x^5/3! + x^7/4! + ... x^(2n-1)/n!
 
-c. **Factorial of a Number**
-   - Program: [factorial.py](factorial.py)
-   - Find whether a number is a factor of 255.
+### Program 2: Evaluating Python Collections
 
-d. **Sum of Series**
-   - Program: [sum_of_series.py](sum_of_series.py)
-   - Find the sum of the series: 1 + 1/3 + 1/5 + 1/7 + ... up to 'N' terms.
+File: [`program2.py`](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program2.py)
 
-e. **Sum of Series (Advanced)**
-   - Program: [sum_of_series_advanced.py](sum_of_series_advanced.py)
-   - Find the sum of the series: 1 + x/1! + x^3/2! + x^5/3! + x^7/4! + ... x^(2n-1)/n!.
+Description:
+a. Demonstrates the built-in functions of strings, lists, and sets.
+b. Counts the occurrences of the letter 'o' in a given string.
+c. Calculates the frequency of each word in a list of strings.
+d. Stores and displays details of 'n' countries using dictionaries, including name, capital, and per capita income. Also, finds the country with the highest and second lowest per capita income.
 
-### 2. Python Collections
+### Program 3: Creating Python and Java Classes
 
-a. **Inbuilt Functions Demonstration**
-   - Program: [inbuilt_functions.py](inbuilt_functions.py)
-   - Demonstrate inbuilt functions of Strings, List, and Sets.
+File: [`program3.py`](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program3.py)
 
-b. **Count Specific Letter**
-   - Program: [count_letter.py](count_letter.py)
-   - Count the number of times the vowel 'o' appears in a given string.
+Description:
+Defines two classes, "Python" and "Java," with data members "Version" and "name," and a method "display()" to print appropriate messages using object instances.
 
-c. **Word Frequency**
-   - Program: [word_frequency.py](word_frequency.py)
-   - Find the frequency of each word in given strings.
+### Program 4: Creating Employee Class
 
-d. **Country Dictionary**
-   - Program: [country_dictionary.py](country_dictionary.py)
-   - Store details of 'n' countries using a dictionary and display the country with the highest and second lowest per capita income.
+File: [`program4.py`](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program4.py)
 
-### 3. Python Classes
+Description:
+Defines a class "Employee" with an `__init__` method to initialize attributes like Name, Designation, and Ph. No. Also, includes a `display()` method to display employee details using instances.
 
-a. **Python and Java Classes**
-   - Program: [python_java_classes.py](python_java_classes.py)
-   - Create classes "Python" and "Java" with data members and member functions.
+### Program 5: Interactive Calculator
 
-b. **Employee Class**
-   - Program: [employee_class.py](employee_class.py)
-   - Create an "Employee" class with member function to display details.
+File: https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program5.py
 
-### 4. Interactive Calculator
+Description:
+An interactive calculator that takes user input in the form of a formula (e.g., 1 + 1), validates it, performs calculations, and prints results. It raises custom exceptions for invalid inputs.
 
-Program: [interactive_calculator.py](interactive_calculator.py)
-- Create an interactive calculator that takes user input and performs calculations based on the input formula.
+### Program 6: Counting Lines and Longest Word in a Text File
 
-### 5. File Operations
+File: [`program6.py`](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program6.py)
 
-a. **Count Lines and Longest Word**
-   - Program: [count_lines_longest_word.py](count_lines_longest_word.py)
-   - Count the number of lines in a text file and find the longest word.
+Description:
+Reads a text file, counts the number of lines, and stores each line in a list. Additionally, it identifies the longest word in the file.
 
-b. **Student Details to File**
-   - Program: [student_details_to_file.py](student_details_to_file.py)
-   - Create a list of student details and write them to a file using dictionaries.
+### Program 7: Creating Student Details List and Writing to File
 
-### 6. Numpy One-Hot Encoding
+File: [`program7.py`](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program7.py)
 
-Program: [numpy_one_hot_encoding.py](numpy_one_hot_encoding.py)
-- Generate one-hot encodings for an array using numpy.
+Description:
+Creates a list of student details using dictionaries, including USN, name, DOB, and email. The program then writes this list to a file.
 
-### 7. Pandas Excel Import and Filtering
+### Program 8: Generating One-Hot Encodings using NumPy
 
-Program: [pandas_excel_filtering.py](pandas_excel_filtering.py)
-- Import excel data into a Pandas dataframe and filter employees based on hire_date.
+File: [`program8.py`](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program8.py)
 
+Description:
+Generates one-hot encodings for an array using NumPy, where each unique value in the array corresponds to a binary encoded vector.
+
+### Program 9: Importing Excel Data using Pandas
+
+File: [`program9.py`](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program9.py)
+
+Description:
+Imports Excel data into a Pandas DataFrame and filters the list of employees based on hire_date falling between specific months and years.
