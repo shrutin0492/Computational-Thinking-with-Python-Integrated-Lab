@@ -42,7 +42,7 @@ Defines a class "Employee" with an `__init__` method to initialize attributes li
 
 ### Program 5: Interactive Calculator
 
-File: https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program5.py
+File: [`program5.py`](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program5.py)
 
 Description:
 An interactive calculator that takes user input in the form of a formula (e.g., 1 + 1), validates it, performs calculations, and prints results. It raises custom exceptions for invalid inputs.
