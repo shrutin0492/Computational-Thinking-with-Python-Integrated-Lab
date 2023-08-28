@@ -4,7 +4,7 @@ This repository containts a collection of Python programs completed as part of C
 ## Link to the colab notebook
 [Colab Notebook](ctpy_integrated_lab.ipynb)
 
-## Program List
+## Programs List
 
 ### Program 1: Evaluating Values, Expressions, and Statements
 
