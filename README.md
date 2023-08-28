@@ -8,7 +8,7 @@ This repository containts a collection of Python programs completed as part of C
 
 ### Program 1: Evaluating Values, Expressions, and Statements
 
-File: [program1.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program1.py)
+File: [program1.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/Programs/program1.py)
 
 Description:
 
