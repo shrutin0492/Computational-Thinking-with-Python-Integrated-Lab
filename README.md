@@ -22,7 +22,7 @@ d. Calculates the sum of two series: i. 1 + 1/3 + 1/5 + 1/7 + ... up to 'N' term
 
 ### Program 2: Evaluating Python Collections
 
-File: [program2.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program2.py)
+File: [program2.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/Programs/program2.py)
 
 Description:
 
@@ -36,7 +36,7 @@ d. Stores and displays details of 'n' countries using dictionaries, including na
 
 ### Program 3: Creating Python and Java Classes
 
-File: [program3.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program3.py)
+File: [program3.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/Programs/program3.py)
 
 Description:
 
@@ -44,7 +44,7 @@ Defines two classes, "Python" and "Java," with data members "Version" and "name,
 
 ### Program 4: Creating Employee Class
 
-File: [program4.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program4.py)
+File: [program4.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/Programs/program4.py)
 
 Description:
 
@@ -63,7 +63,7 @@ c. If the second input is not '+' or '-', again raise a FormulaError
 
 d. If the input is valid, perform the calculation and print out the result. The user is then prompted to provide new input, and so on, until the user enters quit.
 
-File: [program5.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program5.py)
+File: [program5.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/Programs/program5.py)
 
 Description:
 
@@ -71,7 +71,7 @@ An interactive calculator that takes user input in the form of a formula (e.g., 
 
 ### Program 6: Counting Lines and Longest Word in a Text File
 
-File: [program6.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program6.py)
+File: [program6.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/Programs/program6.py)
 
 Description:
 
@@ -79,7 +79,7 @@ Reads a text file, counts the number of lines, and stores each line in a list. A
 
 ### Program 7: Creating Student Details List and Writing to File
 
-File: [program7.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program7.py)
+File: [program7.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/Programs/program7.py)
 
 Description:
 
@@ -87,7 +87,7 @@ Creates a list of student details using dictionaries, including USN, name, DOB, 
 
 ### Program 8: Generating One-Hot Encodings using NumPy
 
-File: [program8.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program8.py)
+File: [program8.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/Programs/program8.py)
 
 Description:
 
@@ -95,7 +95,7 @@ Generates one-hot encodings for an array using NumPy, where each unique value in
 
 ### Program 9: Importing Excel Data using Pandas
 
-File: [program9.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program9.py)
+File: [program9.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/Programs/program9.py)
 
 Description:
 
