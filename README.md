@@ -16,9 +16,10 @@ a. This program prompts the user to input an integer, reverses it, and calculate
 
 b. It checks if a given number is a factor of 255.
 
-c. Similar to part b, this section checks if a number is a factor of 255.
-
-d. Calculates the sum of two series: i. 1 + 1/3 + 1/5 + 1/7 + ... up to 'N' terms; ii. 1 + x/1! + x^3/2! + x^5/3! + x^7/4! + ... x^(2n-1)/n!
+c. Calculates the sum of two series: 
+   
+   i. 1 + 1/3 + 1/5 + 1/7 + ... up to 'N' terms; 
+   ii. 1 + x/1! + x^3/2! + x^5/3! + x^7/4! + ... x^(2n-1)/n!
 
 ### Program 2: Evaluating Python Collections
 
@@ -32,7 +33,8 @@ b. Counts the occurrences of the letter 'o' in a given string.
 
 c. Calculates the frequency of each word in a list of strings.
 
-d. Stores and displays details of 'n' countries using dictionaries, including name, capital, and per capita income. Also, finds the country with the highest and second lowest per capita income.
+d. i. Stores and displays details of 'n' countries using dictionaries, including name, capital, and per capita income. 
+   ii. Finds the country with the highest and second lowest per capita income.
 
 ### Program 3: Creating Python and Java Classes
 
@@ -52,7 +54,11 @@ Defines a class "Employee" with an `__init__` method to initialize attributes li
 
 ### Program 5: Interactive Calculator
 
-User input is assumed to be a formula that consist of a number, an operator
+File: [program5.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/Programs/program5.py)
+
+Description:
+
+An interactive calculator that takes user input in the form of a formula (e.g., 1 + 1), validates it, performs calculations, and prints results. It raises custom exceptions for invalid inputs. User input is assumed to be a formula that consist of a number, an operator
 (at least + and -), and another number, separated by white space (e.g. 1 + 1). Split user input using str.split(), and check whether the resulting list is valid:
 
 a. If the input does not consist of 3 elements, raise a FormulaError, which is a custom Exception.
@@ -62,12 +68,6 @@ b. Try to convert the first and third input to a float (like so: float_value = f
 c. If the second input is not '+' or '-', again raise a FormulaError
 
 d. If the input is valid, perform the calculation and print out the result. The user is then prompted to provide new input, and so on, until the user enters quit.
-
-File: [program5.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/Programs/program5.py)
-
-Description:
-
-An interactive calculator that takes user input in the form of a formula (e.g., 1 + 1), validates it, performs calculations, and prints results. It raises custom exceptions for invalid inputs.
 
 ### Program 6: Counting Lines and Longest Word in a Text File
 
