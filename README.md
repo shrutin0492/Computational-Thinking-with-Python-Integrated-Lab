@@ -1,7 +1,8 @@
 # Computational-Thinking-with-Python-Integrated-Lab
 This repository containts a collection of Python programs completed as part of Computational Thinking with Python integrated lab course in the 2nd year of my undergrad.
 
-## Link to the colab notebook: [Colab Notebook](ctpy_integrated_lab.ipynb)
+## Link to the colab notebook
+[Colab Notebook](ctpy_integrated_lab.ipynb)
 
 ## Program List
 
