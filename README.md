@@ -11,9 +11,13 @@ This repository containts a collection of Python programs completed as part of C
 File: [program1.py](https://github.com/shrutin567/Computational-Thinking-with-Python-Integrated-Lab/blob/main/program1.py)
 
 Description:
+
 a. This program prompts the user to input an integer, reverses it, and calculates the sum of the reversed integer.
+
 b. It checks if a given number is a factor of 255.
+
 c. Similar to part b, this section checks if a number is a factor of 255.
+
 d. Calculates the sum of two series: i. 1 + 1/3 + 1/5 + 1/7 + ... up to 'N' terms; ii. 1 + x/1! + x^3/2! + x^5/3! + x^7/4! + ... x^(2n-1)/n!
 
 ### Program 2: Evaluating Python Collections
@@ -22,8 +26,11 @@ File: [program2.py](https://github.com/shrutin567/Computational-Thinking-with-Py
 
 Description:
 a. Demonstrates the built-in functions of strings, lists, and sets.
+
 b. Counts the occurrences of the letter 'o' in a given string.
+
 c. Calculates the frequency of each word in a list of strings.
+
 d. Stores and displays details of 'n' countries using dictionaries, including name, capital, and per capita income. Also, finds the country with the highest and second lowest per capita income.
 
 ### Program 3: Creating Python and Java Classes
